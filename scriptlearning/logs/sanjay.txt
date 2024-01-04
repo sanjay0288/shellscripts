@@ -1,0 +1,6 @@
+sometext
+error
+someother text
+error
+error
+error

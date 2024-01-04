@@ -1,0 +1,4 @@
+ajay manager 6754 45000
+vijay clerk  6543 23000
+gunda clerk  4532 13000
+munna sales 3421  18000
